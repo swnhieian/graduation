@@ -1,0 +1,22 @@
+TD {
+	FONT-SIZE: 12px;
+	LINE-HEIGHT: 20px;
+	color: #000000;
+}
+.TD1 {
+	FONT-SIZE: 14px;
+	LINE-HEIGHT: 20px;
+}
+
+A:link {
+	COLOR: #0000FF; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #771077; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #296870; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #999999; FONT-WEIGHT: normal; TEXT-DECORATION: underline
+}
